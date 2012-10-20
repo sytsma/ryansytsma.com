@@ -1,0 +1,159 @@
+h2 {
+	font-family: Franklan Gothic, Verdana, Arial, sans-serif;
+	color: #444;
+}
+
+p {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #444;
+}
+
+.hero-unit {
+	background-image:url(assets/images/header-bg.png);
+	color: white;
+	height: 220px;
+	width: 100%;
+	margin: 0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+.logo {
+	background-image:url(assets/images/logo.png);
+	height: 64px;
+	width: 64px;
+	right: 40px;
+	top: 147px;
+	position: fixed;
+	background-repeat: no-repeat;
+}
+
+.button a {
+	display: block;
+	background: url(assets/images/button.png) no-repeat;
+	height: 40px;
+	width: 40px;
+	position: relative;
+	left: 530px;
+}
+
+.button a:hover {
+	background-position: 0 -40px;
+}
+
+.container800 {
+	font-size: 16px;
+	margin: 0 auto;
+	width: 800px;
+}
+
+.container870 {
+	font-size: 16px;
+	margin: 0 auto;
+	width: 870px;
+}
+
+.container1100 {
+	font-size: 16px;
+	margin: 0 auto;
+	width: 1100px;
+}
+
+#portfolio {
+	margin-top: -20px;
+	margin-bottom: 40px;
+}
+
+figure {
+	margin: 0;
+}
+
+.footer {
+	background-image:url(assets/images/footer-bg.png);
+	color: white;
+	height: 220px;
+	width: 100%;
+	margin-top:320px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+.twitter a {
+	display: block;
+	background: url(assets/images/twitter-sprite.png) no-repeat;
+	height: 24px;
+	width: 24px;
+	margin-top: 60px;
+	margin-left: 20px;
+}
+
+.twitter a:hover {
+	background-position: 0 -24px;
+}
+
+.dribbble a {
+	display: block;
+	background: url(assets/images/dribbble-sprite.png) no-repeat;
+	height: 24px;
+	width: 24px;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+.dribbble a:hover {
+	background-position: 0 -24px;
+}
+
+.close a {
+	display: block;
+	background: url(assets/images/button-close.png) no-repeat;
+	height: 40px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: -38px;
+}
+
+.close a:hover {
+	background-position: 0 -40px;
+}
+
+.float-img {
+	float: left;
+	margin-right: 30px;
+	position: relative;
+	border: none;
+}
+
+#the-atom {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+figure {
+	margin: 0;
+}
+
+#002-magazine2 {
+	margin-top: 200px;
+}	
+
+#close a {
+	display: block;
+	background: url(assets/images/button-close.png) no-repeat;
+	height: 40px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: -38px;
+}
+
+#close a:hover {
+	background-position: 0 -40px;
+}
+
+figure {
+	margin: 0;
+}
